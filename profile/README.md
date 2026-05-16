@@ -56,13 +56,13 @@ __Archives:__
   - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
 
 __Datasets (Histmap):__
-- **Eoscala**: GDP (PPP), Gini, and other economic activity estimates from 10000BC-2023AD at 5-arcminute resolution.
-  - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/eoscala_1.2)
 - **Atlas:** A vector database of de facto polities and combatants at a global level from 3300BC to 2026AD; C-Shapes used for de jure frontiers since 1945AD. 
   - [📦 Dataset (0.5)](https://drive.google.com/drive/folders/1jTr_QT14V2jT-L-TGqbS1vEwh1kZJoAw?usp=sharing)
+- **Eoscala**: GDP (PPP), Gini, and other economic activity estimates from 10000BC-2023AD at 5-arcminute resolution.
+  - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/eoscala_1.2)
 - **Stadestér**: A geolocated database of ~41000 cities from 3000BC to the Present at 1-year population intervals.
   - [📝 Paper](https://confoederatio.org/papers/Stadest%C3%A9r%201.0%20-%20A%20Global%20Database%20of%2041000%2B%20Cities%20From%203000BC%20to%20the%20Present.pdf) | [👥 Stadestér 1.0 Rasters, JSON (Zenodo)](https://doi.org/10.5281/zenodo.17172244)] | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Stadester)
-- **Velkscala**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
+- **Velkscala**: Population, land-use estimates from 10000BC-2023AD at 5-arcminute resolution.
   - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/velkscala_0.7)
  
 __Datasets & Livemap:__
@@ -70,7 +70,7 @@ __Datasets & Livemap:__
   - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Collation)
 
 __Software & Tooling:__
-- **Naissance GIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
+- **Naissance HGIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
   - [📦 Releases](https://github.com/ConfoederatioVF/Naissance/releases) | [:computer: Source (Repository)](https://github.com/ConfoederatioVF/Naissance)
       </details>
       <details>
