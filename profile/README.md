@@ -22,12 +22,10 @@
     </td>
     <td align="right" width = "350px" valign = "top"> 
       <h3>Core Members.</h3>
-      • Aust Kätzchen (CRD)<br>
-      • Vis Tacitus (CTD)<br>
+      • Aust Kätzchen (CRD, Head)<br>
+      • Vis Tacitus (CTD, Head)<br>
       <h3>Contact.</h3>
-      <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">Discord 💬</a><br>
-      <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">E-mail ✉️</a><br>
-      <a href = "https://zenodo.org/communities/confoederatio/" title = "Zenodo: Confoederatio">Zenodo 🧪</a>
+      <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">💬<b>Discord</b></a> | <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">✉️E-mail</a> | <a href = "gitlab.com/confoederatio" title = "GitLab">📇GitLab</a> |<br><a href = "https://www.youtube.com/@Confoederatio" title = "YouTube: Confoederatio">▶️YouTube</a> | <a href = "https://zenodo.org/communities/confoederatio/" title = "Zenodo: Confoederatio">🧪Zenodo</a>
     </td>
   </tr>
   <tr>
