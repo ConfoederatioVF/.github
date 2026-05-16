@@ -16,7 +16,9 @@
       <h1>Welcome to Confoederatio.</h1>
       <a href = "https://confoederatio.org"><b>Website</b></a> | <a href = "https://confoederatiodocs.info/"><b>Documentation</b></a>
       <br><br>
-      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.<br>&nbsp;
+      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
+      <br><br>
+      <b>Clone the world.</b>
     </td>
     <td align="right" width = "350px" valign = "top"> 
       <h3>Core Members.</h3>
@@ -30,7 +32,7 @@
   </tr>
   <tr>
     <td colspan = "3" valign = "top">
-      <details open>
+      <details>
       <summary><h2>CAD Projects.</h2> (Confoederatio, Artistic Division) <kbd>↨ 3 Main Projects</kbd></summary>
 
 Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork used in Confoederatio projects. 
@@ -46,7 +48,7 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
             
       </details>
 </details>
-      <details>
+      <details open>
       <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
 
 __Archives:__
@@ -54,10 +56,10 @@ __Archives:__
   - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
 
 __Datasets (Histmap):__
-- **Eoscala**: GDP (PPP) and other economic activity estimates from 10000BC-2022AD at 5-arcminute resolution.
+- **Eoscala**: GDP (PPP), Gini, and other economic activity estimates from 10000BC-2023AD at 5-arcminute resolution.
   - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/eoscala_1.2)
-- **Sehistoir:** A vector database of census/population subadministrative divisions at a global level from 1800AD to the Present at 1-year intervals.
-  - [📑 Documentation](https://confoederatiodocs.info/en/CRD/Sehistoir)
+- **Atlas:** A vector database of de facto polities and combatants at a global level from 3300BC to 2026AD; C-Shapes used for de jure frontiers since 1945AD. 
+  - [📦 Dataset (0.5)](https://drive.google.com/drive/folders/1jTr_QT14V2jT-L-TGqbS1vEwh1kZJoAw?usp=sharing)
 - **Stadestér**: A geolocated database of ~41000 cities from 3000BC to the Present at 1-year population intervals.
   - [📝 Paper](https://confoederatio.org/papers/Stadest%C3%A9r%201.0%20-%20A%20Global%20Database%20of%2041000%2B%20Cities%20From%203000BC%20to%20the%20Present.pdf) | [👥 Stadestér 1.0 Rasters, JSON (Zenodo)](https://doi.org/10.5281/zenodo.17172244)] | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Stadester)
 - **Velkscala**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
