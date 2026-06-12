@@ -23,7 +23,7 @@
     <td align="left" width = "350px" valign = "top"> 
       <h3>Members.</h3>
       <ul>
-        <li>Aust Kätzchen (CRD, Head)</li>
+        <li>Aust Kätzchen (CAD/CRD, Head)</li>
         <li>Trident (CRD)</li>
       </ul>
       <ul>
