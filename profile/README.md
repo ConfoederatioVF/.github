@@ -107,7 +107,7 @@ __Grand-strategy Games/Mods:__
 __Software & Tooling:__
 - **Ampersand Mod Creator:** A mod creator for Triumph & Tragedy.
   - [📦 Releases](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator)
-- **Scriptly IDE:** An embeddable visual IDE with block-based/node-based/text editing.
+- **Scriptly IDE:** An embeddable visual IDE with block-based/node-based/text editing. Superseded by Vercengen/Scriptly.
   - [📦 Releases](https://github.com/ConfoederatioVF/Scriptly/releases/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Scriptly)
       </details>
     </td>
