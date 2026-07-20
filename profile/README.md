@@ -39,6 +39,11 @@
       <h4>Self-hosted Services.</h4>
       <a href = "https://bridge.confoederatio.org/">🖇️Bridge</a> | <a href = "https://datavault.confoederatio.org/">📁Datavault</a> | <a href = "https://element.confoederatio.org/">💭Element</a> | <a href = "https://projects.confoederatio.org/">💼Projects</a> | <a href = "https://sites.confoederatio.org/">🌐Webstudio</a
       </div>
+      <details>
+        <summary><h4>Onions.</h4></summary>
+        Onions only work over Tor or equivalent browsers.<br><br>
+        <a href = "http://ctmf5faphedoiqbfrm5vzmmdyz5ytboorjwh4fjltpt2kf5ttfywpjad.onion/">Datavault</a> | <a href = "http://rrqaziswwxa2kuv5qxiyuwfhr6u6p3ohly3ig7lmgrve3juyyhcvq2yd.onion/">Element</a> | <a href = "http://vzpjzneuwmznlb35nyu3uak5nnzme5cm3c2njksymu5oepiaei25cdyd.onion/">Projects</a> | <a href = "http://gfhfkmbnh652ve7wx5vqej2wsabvotum5vclnqzw5vgkqlrhtg6lzlad.onion/">Webstudio</a>
+      </details>
     </td>
   </tr>
   <tr>
