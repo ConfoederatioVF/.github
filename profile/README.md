@@ -14,7 +14,7 @@
   <tr>
     <td align="left" valign = "top" colspan = "2">
       <h1>Welcome to Confoederatio.</h1>
-      <a href = "https://confoederatio.org"><b>Website</b></a> | <a href = "https://confoederatiodocs.info/"><b>Documentation</b></a>
+      <a href = "https://confoederatio.org"><b>Website</b></a> | <a href = "https://confoederatiodocs.info/"><b>Documentation</b></a> | <a href = "https://docs.confoederatio.org/"><b>Wiki</b></a>
       <br><br>
       We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
       <br><br>
@@ -35,7 +35,9 @@
       </ul>
       <div align="right">
       <h3>Contact.</h3>
-      <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">💬<b>Discord</b></a> | <a href = "https://element.confoederatio.org/" title = "Element Matrix: CONFOEDERATIO_">💬Element</a> | <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">✉️E-mail</a> | <a href = "https://gitlab.com/confoederatio" title = "GitLab">📇GitLab</a> |<br><a href = "https://github.com/ConfoederatioVF" title = "Github: Confoederatio">💻GitHub</a> | <a href = "https://www.youtube.com/@Confoederatio" title = "YouTube: Confoederatio">▶️YouTube</a> | <a href = "https://zenodo.org/communities/confoederatio/" title = "Zenodo: Confoederatio">🧪Zenodo</a>
+      <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">💬<b>Discord</b></a> | <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">✉️E-mail</a> | <a href = "https://github.com/ConfoederatioVF" title = "Github: Confoederatio">💻GitHub</a> |<br><a href = "https://gitlab.com/confoederatio" title = "GitLab">📇GitLab</a> | <a href = "https://www.youtube.com/@Confoederatio" title = "YouTube: Confoederatio">▶️YouTube</a> | <a href = "https://zenodo.org/communities/confoederatio/" title = "Zenodo: Confoederatio">🧪Zenodo</a>
+      <h4>Self-hosted Services.</h4>
+      <a href = "https://bridge.confoederatio.org/">🖇️Bridge</a> | <a href = "https://datavault.confoederatio.org/">📁Datavault</a> | <a href = "https://element.confoederatio.org/">💭Element</a> | <a href = "https://projects.confoederatio.org/">💼Projects</a> | <a href = "https://sites.confoederatio.org/">🌐Webstudio</a
       </div>
     </td>
   </tr>
