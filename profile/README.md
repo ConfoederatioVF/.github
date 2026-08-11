@@ -66,7 +66,7 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
       </details>
 </details>
       <details open>
-      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
+      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 8 Main Projects</kbd></summary>
 
 __Archives:__
 - **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
@@ -83,8 +83,10 @@ __Datasets (Histmap):__
   - [📝 Paper](https://github.com/ConfoederatioVF/EoscalaVelkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/ConfoederatioVF/EoscalaVelkscala/tree/main/velkscala_0.7)
  
 __Datasets & Livemap:__
-- **Collation:** A live OSINT portal/dashboard for Naissance focused on GEOINT, ORBATs, news aggregation, as well as logistics and supply chains.
+- **Collation**: A live OSINT portal/dashboard for Naissance focused on GEOINT, ORBATs, news aggregation, as well as logistics and supply chains.
   - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Collation)
+- **Harbinger**: CV/ML toolkit for structuring noisy map data, especially from multimodal image/text/video scrapes.
+  - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Harbinger)
 
 __Software & Tooling:__
 - **Naissance HGIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
