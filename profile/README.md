@@ -86,7 +86,7 @@ __Datasets & Livemap:__
 - **Collation**: A live OSINT portal/dashboard for Naissance focused on GEOINT, ORBATs, news aggregation, as well as logistics and supply chains.
   - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Collation)
 - **Harbinger**: CV/ML toolkit for structuring noisy map data, especially from multimodal image/text/video scrapes.
-  - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Harbinger)
+  - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Harbinger) | [Harbinger.Deprojector](https://github.com/ConfoederatioVF/Harbinger.Deprojector) | [Harbinger.Segmentation](https://github.com/ConfoederatioVF/Harbinger.Segmentation) | [Harbinger.Geowarp](https://github.com/ConfoederatioVF/Naissance)
 
 __Software & Tooling:__
 - **Naissance HGIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
