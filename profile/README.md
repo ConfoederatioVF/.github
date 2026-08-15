@@ -59,7 +59,7 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
         <summary>Art Projects. <kbd>↨ 2 Main Projects</kbd></summary><br>
             
     __Digital Twins:__
-    - **G-Earth/MC**: General projects related to automating the construction and rendering of city geometries.
+    - **G-Earth/MC**: General projects related to the experimental construction and rendering of city geometries.
       - [📝 Documentation](https://confoederatiodocs.info/en/CAD/GEarth_MC) | [Osaka 1:1, 36km^2](https://drive.google.com/file/d/1Zc-bbopWoFYGtOOSQZjeNbFmUtC_QNcr/view?usp=sharing) | [Vienna 1:1, 16km^2](https://drive.google.com/file/d/1-GFTi4VG853RUEYEoSaFcJoYNAJfGeBs/view?usp=sharing)
     - **Project 1911/1912**: Manual projects to reconstruct the Low Countries at 1:1 scale in Minecraft.
             
