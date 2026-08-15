@@ -102,8 +102,8 @@ __Frameworks:__
   - [📦 Releases](https://github.com/ConfoederatioVF/Scriptly/releases/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Scriptly)
 
 __Office Suites:__
-- **Unitel**: Web-based network for projects. Functions as an alternative for chat platforms, code hosting, website builders, and office suites like Proton/Google Drive.
-  - [🌐 Website](https://unitel.confoederatio.org/)
+- **Unitel**: Functions as an alternative for chat platforms, code hosting, website builders, and office suites like Proton/Google Drive.
+  - [🌐 Website](https://unitel.confoederatio.org/) | [🧭 Dataview](https://confoederatio.org/pages/dataview)
 
 </details>
 <details>
