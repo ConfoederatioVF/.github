@@ -89,7 +89,7 @@ __Datasets & Livemap:__
   - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Harbinger) | [Harbinger.Deprojector](https://github.com/ConfoederatioVF/Harbinger.Deprojector) | [Harbinger.Segmentation](https://github.com/ConfoederatioVF/Harbinger.Segmentation) | [Harbinger.Geowarp](https://github.com/ConfoederatioVF/Naissance)
 
 __Software & Tooling:__
-- **Naissance HGIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
+- **Naissance HGIS**: A 4D GIS focused on sovereignty, statistical visualisation, and data wrangling. Full-stack map editor.
   - [📦 Releases](https://github.com/ConfoederatioVF/Naissance/releases) | [:computer: Source (Repository)](https://github.com/ConfoederatioVF/Naissance)
 </details>
 <details open>
@@ -109,7 +109,7 @@ __Office Suites:__
 <details>
 <summary><h2>CTD Games.</h2> (Confoederatio, Games Division) <kbd>↨ 2 Main Projects</kbd></summary>
 
-CTD Games is firewalled from the rest of **Confoederatio**, and operates as a standalone **Legacy Division**, with different personnel. It is institutionally separate, and has no bearing on the work of CAD, CRD, or CTD.
+CTD Games is firewalled from the rest of **Confoederatio**, and operates as a **Legacy Division**, with different personnel. It is institutionally separate, and has no bearing on the work of CAD, CRD, or CTD.
 
 __Game Engines:__
 - **AnalyticalEngine**: Java/Nashorn-based modding API and game engine for AOC3.
