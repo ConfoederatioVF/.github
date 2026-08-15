@@ -109,7 +109,7 @@ __Office Suites:__
 <details>
 <summary><h2>CTD Games.</h2> (Confoederatio, Games Division) <kbd>↨ 2 Main Projects</kbd></summary>
 
-CTD Games is firewalled from the rest of **Confoederatio**, and operates as a **Legacy Division**, with different personnel. We chose to maintain CTD Games for historical reasons as part of CTD was federated from a modding collective.
+CTD Games is firewalled from the rest of **Confoederatio**, and operates as a **Legacy Division**, with different personnel. We chose to maintain CTD Games for historical reasons as part of CTD was federated from a modding collective. It has no bearing on the work or significance of core divisions.
 
 __Game Engines:__
 - **AnalyticalEngine**: Java/Nashorn-based modding API and game engine for AOC3.
