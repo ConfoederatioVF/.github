@@ -18,7 +18,7 @@
       <br><br>
       We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or ML toolkits, you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
       <br><br>
-      Looking for our Games Division? <a href = "https://github.com/CTD-Games">CTD Games</a> is a separate organisation.
+      **Looking for a game studio?** <a href = "https://github.com/CTD-Games">CTD Games</a> is a separate organisation.
     </td>
     <td align="left" width = "350px" valign = "top"> 
       <h3>Members.</h3>
