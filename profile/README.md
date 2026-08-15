@@ -109,7 +109,7 @@ __Office Suites:__
 <details>
 <summary><h2>CTD Games.</h2> (Confoederatio, Games Division) <kbd>↨ 2 Main Projects</kbd></summary>
 
-CTD Games is institutionally separate from the rest of **Confoederatio**, and operates as a standalone Division.
+CTD Games is firewalled from the rest of **Confoederatio**, and operates as a standalone Division, with different personnel.
 
 __Game Engines:__
 - **AnalyticalEngine**: Java/Nashorn-based modding API and game engine for AOC3.
