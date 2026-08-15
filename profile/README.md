@@ -65,8 +65,8 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
             
       </details>
 </details>
-      <details open>
-      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 8 Main Projects</kbd></summary>
+<details open>
+<summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
 
 __Archives:__
 - **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
@@ -91,16 +91,28 @@ __Datasets & Livemap:__
 __Software & Tooling:__
 - **Naissance HGIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
   - [📦 Releases](https://github.com/ConfoederatioVF/Naissance/releases) | [:computer: Source (Repository)](https://github.com/ConfoederatioVF/Naissance)
-      </details>
-      <details>
-      <summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division) <kbd>↨ 8 Main Projects</kbd></summary>
+</details>
+<details open>
+<summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division) <kbd>↨ 3 Main Projects</kbd></summary>
 
 __Frameworks:__
-  - **Vercengen**: A state-driven software engine for desktop/web apps in which UI is a subset of state, removing frontend work entirely.
+- **Vercengen**: A state-driven software engine for desktop/web apps in which UI is a subset of state, removing frontend work entirely.
     - [📑 Documentation](https://confoederatio.org/Vercengen/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Vercengen)
+- **Scriptly IDE:** An embeddable visual IDE with block-based/node-based/text editing. Superseded by Vercengen/Scriptly.
+  - [📦 Releases](https://github.com/ConfoederatioVF/Scriptly/releases/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Scriptly)
+
+__Office Suites:__
+- **Unitel**: Web-based network for projects. Functions as an alternative for chat platforms, code hosting, website builders, and office suites like Proton/Google Drive.
+  - [🌐 Website](https://unitel.confoederatio.org/)
+
+</details>
+<details>
+<summary><h2>CTD Games.</h2> (Confoederatio, Games Division) <kbd>↨ 2 Main Projects</kbd></summary>
+
+CTD Games is institutionally separate from the rest of **Confoederatio**, and operates as a standalone Division.
 
 __Game Engines:__
-- **AnalyticalEngine**: Java/Nashorn-based game engine built on top of AOC3/LJWGL.
+- **AnalyticalEngine**: Java/Nashorn-based modding API and game engine for AOC3.
   - [📑 Documentation](https://docs.google.com/document/d/1cgZIJyXivPmHRlPZBEmlv65Aypafa_xPVOjqJDaS6Sg/edit?usp=sharing) | [📦 Releases](https://github.com/ConfoederatioVF/AnalyticalEngine/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/AnalyticalEngine) | [🚂 Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3429582135)
 - **Gamechanger**: Node-based grand-strategy engine with JSON-based DSL modding support, primarily used for T&T1 and T&T2.
   - [📑 Documentation](https://docs.google.com/document/d/1uLfSMooByn0jtm6hfKK8rn8c9Qj9FCWv8JibFgOQwhc/edit?usp=sharing) | [💻 Source (Repository), Examples](https://github.com/ConfoederatioVF/TriumphAndTragedy/tree/main/common)
@@ -109,7 +121,7 @@ __Grand-strategy Games/Mods:__
 - **11:59**: A Cold War total overhaul for AOC2/AOC3. You can find separate game versions below:
   - AOC2: [💻 Source (ModDB)](https://www.moddb.com/mods/1159-a-cold-war-mod)
   - AOC3: [💻 Source (Repository)](https://github.com/ConfoederatioVF/AnalyticalEngine/tree/main/src/mods/11.59)
-- **Triumph & Tragedy I**: A simple open-source multiplayer grand-strategy game and fully-automated NRP built for moddability.
+- **Triumph & Tragedy I**: A simple open-source multiplayer grand-strategy game and text-based MP game built for moddability.
   - [📦 Releases](https://github.com/ConfoederatioVF/RP5.2/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/RP5.2Legacy)
 - **Triumph & Tragedy II**: An open-source grand-strategy multiplayer game focused on the period between 1500-2092 with detailed demographic and combat systems with a particular focus on logistics and bottom-up economic modelling.
   - [📦 Releases](https://github.com/ConfoederatioVF/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
@@ -117,9 +129,7 @@ __Grand-strategy Games/Mods:__
 __Software & Tooling:__
 - **Ampersand Mod Creator:** A mod creator for Triumph & Tragedy.
   - [📦 Releases](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator)
-- **Scriptly IDE:** An embeddable visual IDE with block-based/node-based/text editing. Superseded by Vercengen/Scriptly.
-  - [📦 Releases](https://github.com/ConfoederatioVF/Scriptly/releases/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Scriptly)
-      </details>
+</details>
     </td>
   </tr>
 </table>
