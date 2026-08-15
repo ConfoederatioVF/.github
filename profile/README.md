@@ -16,7 +16,7 @@
       <h1>Welcome to Confoederatio.</h1>
       <a href = "https://confoederatio.org"><b>Website</b></a> | <a href = "https://confoederatiodocs.info/"><b>Documentation</b></a> | <a href = "https://docs.confoederatio.org/"><b>Wiki</b></a>
       <br><br>
-      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or ML toolkits, you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
+      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, or infrastructure, you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
       <br><br>
       <b>Looking for a game studio?</b> <a href = "https://github.com/CTD-Games">CTD Games</a> is a separate organisation.
     </td>
@@ -61,7 +61,7 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
     __Digital Twins:__
     - **G-Earth/MC**: General projects related to the automated construction and rendering of city geometries.
       - [📝 Documentation](https://confoederatiodocs.info/en/CAD/GEarth_MC) | [Osaka 1:1, 36km^2](https://drive.google.com/file/d/1Zc-bbopWoFYGtOOSQZjeNbFmUtC_QNcr/view?usp=sharing) | [Vienna 1:1, 16km^2](https://drive.google.com/file/d/1-GFTi4VG853RUEYEoSaFcJoYNAJfGeBs/view?usp=sharing)
-    - **Project 1911/1912**: Projects to reconstruct the Low Countries at 1:1 scale in Minecraft.
+    - **Project 1911/1912**: Voxelised projects to reconstruct the Low Countries at 1:1 scale.
             
       </details>
 </details>
@@ -69,11 +69,11 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
 <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
 
 __Archives:__
-- **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
-  - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
+- **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical atlases and maps. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
+  - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788) | [📖 Physical Preservés](https://mailto:vf@confoederatio.org)
 
 __Datasets (Histmap):__
-- **Atlas:** A vector database of de facto polities and combatants at a global level from 3300BC to 2026AD; C-Shapes used for de jure frontiers since 1945AD. 
+- **Atlas:** A vector database of de facto polities and combatants at a global level from 3300BC to 2026AD; C-Shapes used for de jure frontiers. 
   - [📦 Dataset (0.5)](https://drive.google.com/drive/folders/1jTr_QT14V2jT-L-TGqbS1vEwh1kZJoAw?usp=sharing)
 - **Eoscala**: GDP (PPP), Gini, and other economic activity estimates from 10000BC-2023AD at 5-arcminute resolution.
   - [📝 Paper](https://github.com/ConfoederatioVF/EoscalaVelkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/ConfoederatioVF/EoscalaVelkscala/tree/main/eoscala_1.2)
@@ -89,8 +89,8 @@ __Datasets & Livemap:__
   - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Harbinger) | [Harbinger.Deprojector](https://github.com/ConfoederatioVF/Harbinger.Deprojector) | [Harbinger.Segmentation](https://github.com/ConfoederatioVF/Harbinger.Segmentation) | [Harbinger.Geowarp](https://github.com/ConfoederatioVF/Naissance)
 
 __Software & Tooling:__
-- **Naissance HGIS**: A 4D GIS focused on sovereignty, statistical visualisation, and data wrangling. Full-stack map editor.
-  - [📦 Releases](https://github.com/ConfoederatioVF/Naissance/releases) | [:computer: Source (Repository)](https://github.com/ConfoederatioVF/Naissance)
+- **Naissance HGIS**: A GIS built for mapping data over time. Full-stack editor and viewer.
+  - [📦 Releases](https://github.com/ConfoederatioVF/Naissance/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Naissance)
 </details>
 <details open>
 <summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division) <kbd>↨ 3 Main Projects</kbd></summary>
@@ -102,7 +102,7 @@ __Frameworks:__
   - [📦 Releases](https://github.com/ConfoederatioVF/Scriptly/releases/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Scriptly)
 
 __Office Suites:__
-- **Unitel**: Functions as an alternative for chat platforms, code hosting, website builders, and office suites like Proton/Google Drive.
+- **Unitel**: Functions as an alternative for chatting, code hosting, file storage, and website builders.
   - [🌐 Website](https://unitel.confoederatio.org/) | [🧭 Dataview](https://confoederatio.org/pages/dataview)
 
 </details>
