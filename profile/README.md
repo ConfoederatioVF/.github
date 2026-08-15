@@ -16,9 +16,9 @@
       <h1>Welcome to Confoederatio.</h1>
       <a href = "https://confoederatio.org"><b>Website</b></a> | <a href = "https://confoederatiodocs.info/"><b>Documentation</b></a> | <a href = "https://docs.confoederatio.org/"><b>Wiki</b></a>
       <br><br>
-      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
+      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or ML toolkits, you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
       <br><br>
-      <b>Clone the world.</b>
+      Looking for our Games Division? <a href = "https://github.com/CTD-Games">CTD Games</a> is a separate organisation.
     </td>
     <td align="left" width = "350px" valign = "top"> 
       <h3>Members.</h3>
@@ -105,30 +105,6 @@ __Office Suites:__
 - **Unitel**: Functions as an alternative for chat platforms, code hosting, website builders, and office suites like Proton/Google Drive.
   - [🌐 Website](https://unitel.confoederatio.org/) | [🧭 Dataview](https://confoederatio.org/pages/dataview)
 
-</details>
-<details>
-<summary><h2>CTD Games.</h2> (Confoederatio, Games Division) <kbd>↨ 2 Main Projects</kbd></summary>
-
-CTD Games has been firewalled from the rest of Confoederatio since 2023, and operates as a Legacy Division, with different personnel. CTD Games is maintained only for historical and accessibility reasons.
-
-__Game Engines:__
-- **AnalyticalEngine**: Java/Nashorn-based modding API and game engine for AOC3.
-  - [📑 Documentation](https://docs.google.com/document/d/1cgZIJyXivPmHRlPZBEmlv65Aypafa_xPVOjqJDaS6Sg/edit?usp=sharing) | [📦 Releases](https://github.com/ConfoederatioVF/AnalyticalEngine/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/AnalyticalEngine) | [🚂 Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3429582135)
-- **Gamechanger**: Node-based grand-strategy engine with JSON-based DSL modding support, primarily used for T&T1 and T&T2.
-  - [📑 Documentation](https://docs.google.com/document/d/1uLfSMooByn0jtm6hfKK8rn8c9Qj9FCWv8JibFgOQwhc/edit?usp=sharing) | [💻 Source (Repository), Examples](https://github.com/ConfoederatioVF/TriumphAndTragedy/tree/main/common)
-  
-__Grand-strategy Games/Mods:__
-- **11:59**: A Cold War total overhaul for AOC2/AOC3. You can find separate game versions below:
-  - AOC2: [💻 Source (ModDB)](https://www.moddb.com/mods/1159-a-cold-war-mod)
-  - AOC3: [💻 Source (Repository)](https://github.com/ConfoederatioVF/AnalyticalEngine/tree/main/src/mods/11.59)
-- **Triumph & Tragedy I**: A simple open-source multiplayer grand-strategy game and text-based MP game built for moddability.
-  - [📦 Releases](https://github.com/ConfoederatioVF/RP5.2/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/RP5.2Legacy)
-- **Triumph & Tragedy II**: An open-source grand-strategy multiplayer game focused on the period between 1500-2092 with detailed demographic and combat systems with a particular focus on logistics and bottom-up economic modelling.
-  - [📦 Releases](https://github.com/ConfoederatioVF/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
-
-__Software & Tooling:__
-- **Ampersand Mod Creator:** A mod creator for Triumph & Tragedy.
-  - [📦 Releases](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator)
 </details>
     </td>
   </tr>
