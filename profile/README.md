@@ -24,7 +24,7 @@
       <h3>Members.</h3>
       <ul>
         <li>Aust Kätzchen (CAD/CRD, Head)</li>
-        <li>Trident (CRD)</li>
+        <li>Dicey (CRD) | Trident (CRD)</li>
       </ul>
       <ul>
         <li>Vis Tacitus (CTD, Head)</li>
