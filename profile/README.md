@@ -74,11 +74,11 @@ __Archives:__
 
 __Datasets (Histmap):__
 - **Atlas:** A vector database of de facto polities and combatants at a global level from 3300BC to 2026AD; C-Shapes used for de jure frontiers. 
-  - [📦 Dataset (0.5)](https://drive.google.com/drive/folders/1jTr_QT14V2jT-L-TGqbS1vEwh1kZJoAw?usp=sharing)
+  - [📦 Atlas 0.51](https://datavault.confoederatio.org/s/rPntqXwCxzXg4Bk) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Atlas) 
 - **Eoscala**: GDP (PPP), Gini, and other economic activity estimates from 10000BC-2023AD at 5-arcminute resolution.
   - [📝 Paper](https://confoederatio.org/papers/Eoscala%201.0_Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.5](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/EoscalaVelkscala)
 - **Stadestér**: A geolocated database of ~41000 cities from 3000BC to the Present at 1-year intervals. Population and area.
-  - [📝 Paper](https://doi.org/10.5281/zenodo.17172244) | [👥 Stadestér 1.1](https://datavault.confoederatio.org/s/KqC3kAKgeKNfWYc)] | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Stadester)
+  - [📝 Paper](https://doi.org/10.5281/zenodo.17172244) | [👥 Stadestér 1.1](https://datavault.confoederatio.org/s/KqC3kAKgeKNfWYc) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Stadester)
 - **Velkscala**: Detailed population, land-use estimates from 10000BC-2023AD at 5-arcminute resolution.
   - [📝 Paper](https://confoederatio.org/papers/Velkscala%20Modelling%20Report%20-%208%20October%202026.pdf) | [👥 Velkscala 1.0](https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/EoscalaVelkscala)
  
