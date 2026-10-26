@@ -83,7 +83,7 @@ __Datasets (Histmap):__
   - [👥 Velkscala 1.0](https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b) | [📝 Paper](https://confoederatio.org/papers/Velkscala%20Modelling%20Report%20-%208%20October%202026.pdf) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/EoscalaVelkscala)
  
 __Datasets & Livemap:__
-- **Collation**: A monorepo fork of Naissance that contains the data pipelines and editors necessary for human systems modelling, as well as livemap monitoring.
+- **Collation**: A monorepo fork of Naissance that contains the data pipelines and editors necessary for the Naissance World Model (NWM), including livemap monitoring.
   - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Collation)
 - **Harbinger**: CV/ML toolkit for structuring noisy map data, especially from multimodal image/text/video scrapes.
   - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Harbinger) | [Harbinger.Deprojector](https://github.com/ConfoederatioVF/Harbinger.Deprojector) | [Harbinger.Segmentation](https://github.com/ConfoederatioVF/Harbinger.Segmentation) | [Harbinger.Geowarp](https://github.com/ConfoederatioVF/Naissance)
