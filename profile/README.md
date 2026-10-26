@@ -74,7 +74,7 @@ __Archives:__
 
 __Datasets (Histmap):__
 - **Atlas:** A vector database of de jure and de facto polities and combatants at a global level from 3500BC to 2025AD.
-  - [📦 Atlas 0.51](https://datavault.confoederatio.org/s/rPntqXwCxzXg4Bk) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Atlas) 
+  - [📦 Atlas 0.7](https://datavault.confoederatio.org/s/rPntqXwCxzXg4Bk) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Atlas) 
 - **Eoscala**: GDP (PPP), Gini, and other economic activity estimates from 10000BC-2025AD at 5-arcminute resolution.
   - [📝 Paper](https://confoederatio.org/papers/Eoscala%201.0_Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.5](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/EoscalaVelkscala)
 - **Stadestér**: A geolocated database of ~41000 cities from 3000BC to the Present at 1-year intervals. Population and area.
