@@ -95,6 +95,10 @@ __Software & Tooling:__
 <details open>
 <summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division) <kbd>↨ 3 Main Projects</kbd></summary>
 
+__Data Portals:__
+- **Dataview**: An online data portal for all Confoederatio datasets, including those built by CRD.
+  - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Dataview) | [🌐 Website](https://dataview.confoederatio.org/)
+
 __Frameworks:__
 - **Vercengen**: A state-driven software engine for desktop/web apps in which UI is a subset of state, removing frontend work entirely.
     - [📑 Documentation](https://confoederatio.org/Vercengen/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Vercengen)
@@ -103,7 +107,7 @@ __Frameworks:__
 
 __Office Suites:__
 - **Unitel**: Functions as an alternative for chatting, code hosting, file storage, and website builders.
-  - [🌐 Website](https://unitel.confoederatio.org/) | [🧭 Dataview](https://confoederatio.org/pages/dataview)
+  - [🌐 Website](https://unitel.confoederatio.org/)
 
 </details>
     </td>
