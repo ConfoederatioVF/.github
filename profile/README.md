@@ -21,7 +21,7 @@
       All processing is signal processing.
       <details>
         <summary><h4>Other Divisions.</h4></summary>
-        <a href = "https://github.com/CAD-Preserve">CAD-Preservés</a>* | <a href = "https://github.com/CTD-Games">CTD Games</a><br><br>
+        <a href = "https://github.com/CAD-Preserves">CAD-Preservés</a>* | <a href = "https://github.com/CTD-Games">CTD Games</a><br><br>
         *<i>Joint efforts repository between Divisions.</i>
       </details>
     </td>
