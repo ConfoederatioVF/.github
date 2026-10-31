@@ -19,6 +19,11 @@
       We're a human systems modelling group focused on the entire globe from the Neolithic to Now. If you're looking for our data editors, software engines, or infrastructure, you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
       <br><br>
       All processing is signal processing.
+      <details>
+        <summary><h4>Other Divisions.</h4></summary>
+        <a href = "https://github.com/CAD-Preserve">CAD-Preservés</a>* | <a href = "https://github.com/CTD-Games">CTD Games</a><br><br>
+        *<i>Joint efforts repository between Divisions.</i>
+      </details>
     </td>
     <td align="left" width = "350px" valign = "top"> 
       <h3>Members.</h3>
@@ -43,7 +48,7 @@
       <details>
         <summary><h4>Onions.</h4></summary>
         Onions only work over Tor or equivalent browsers.<br><br>
-        <a href = "http://ctmf5faphedoiqbfrm5vzmmdyz5ytboorjwh4fjltpt2kf5ttfywpjad.onion/">Datavault</a> | <a href = "http://rrqaziswwxa2kuv5qxiyuwfhr6u6p3ohly3ig7lmgrve3juyyhcvq2yd.onion/">Element</a> | <a href = "http://vzpjzneuwmznlb35nyu3uak5nnzme5cm3c2njksymu5oepiaei25cdyd.onion/">Projects</a> | <a href = "http://gfhfkmbnh652ve7wx5vqej2wsabvotum5vclnqzw5vgkqlrhtg6lzlad.onion/">Webstudio</a>
+        <a href = "http://ctmf5faphedoiqbfrm5vzmmdyz5ytboorjwh4fjltpt2kf5ttfywpjad.onion/">Datavault</a> | <a href = "http://rrqaziswwxa2kuv5qxiyuwfhr6u6p3ohly3ig7lmgrve3juyyhcvq2yd.onion/">Element</a> | <a href = "http://vzpjzneuwmznlb35nyu3uak5nnzme5cm3c2njksymu5oepiaei25cdyd.onion/">Projects</a> | <a href = "http://gfhfkmbnh652ve7wx5vqej2wsabvotum5vclnqzw5vgkqlrhtg6lzlad.onion/">Webstudio</a>        
       </details>
     </td>
   </tr>
