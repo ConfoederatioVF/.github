@@ -57,18 +57,8 @@
       <details>
       <summary><h2>CAD Projects.</h2> (Confoederatio, Artistic Division) <kbd>↨ 3 Main Projects</kbd></summary>
 
-Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork used in Confoederatio projects. 
-  - Socials: [🖌️ DeviantArt](https://www.deviantart.com/australiszero) | [💬 Discord](https://discord.com/channels/548994743925997570/964504182625296415)
+Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork used in Confoederatio projects. See [CAD-Preservés](https://github.com/CAD-Preserves) for more information.
 
-      <details>
-        <summary>Art Projects. <kbd>↨ 2 Main Projects</kbd></summary><br>
-            
-    __Digital Twins:__
-    - **G-Earth/MC**: Legacy projects related to the automated construction and rendering of city geometries.
-      - [📝 Documentation](https://confoederatiodocs.info/en/CAD/GEarth_MC) | [Osaka 1:1, 36km^2](https://drive.google.com/file/d/1Zc-bbopWoFYGtOOSQZjeNbFmUtC_QNcr/view?usp=sharing) | [Vienna 1:1, 16km^2](https://drive.google.com/file/d/1-GFTi4VG853RUEYEoSaFcJoYNAJfGeBs/view?usp=sharing)
-    - **Project 1911/1912**: Voxelised projects to reconstruct the Low Countries at 1:1 scale.
-            
-      </details>
 </details>
 <details open>
 <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
